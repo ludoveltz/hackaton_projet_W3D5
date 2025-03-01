@@ -1,101 +1,101 @@
-﻿Pays,Plat,Popularité_Score,Catégorie
-ÉTATS-UNIS,Beef Brisket Pot Roast,85,Viande
-ÉTATS-UNIS,Big Mac,95,Fast-food
-ÉTATS-UNIS,Chicken Fajita Mac and Cheese,80,Fusion
-ÉTATS-UNIS,Chick-Fil-A Sandwich,90,Fast-food
-ÉTATS-UNIS,Hot Dogs,88,Street-food
-ÉTATS-UNIS,Mac and Cheese,92,Comfort-food
-ÉTATS-UNIS,Pancakes,87,Petit-déjeuner
-ÉTATS-UNIS,Philly Cheese Steak,86,Sandwich
-ÉTATS-UNIS,Pizza Express Margherita,83,Pizza
-ÉTATS-UNIS,T-Bone Steak,89,Viande
-CHINE,Beef Lo Mein,88,Nouilles
-CHINE,Chicken Congee,85,Soupe
-CHINE,Egg Drop Soup,82,Soupe
-CHINE,General Tso's Chicken,90,Volaille
-CHINE,Kung Pao Chicken,92,Volaille
-CHINE,Ma Po Tofu,87,Végétarien
-CHINE,Peking Duck,95,Volaille
-CHINE,Spring Rolls,89,Entrée
-CHINE,Sweet and Sour Pork,91,Viande
-CHINE,Won Ton Soup,86,Soupe
-FRANCE,Boeuf Bourguignon,92,Viande
-FRANCE,Coq au Vin,88,Volaille
-FRANCE,Croque Madame,85,Sandwich
-FRANCE,French Onion Soup,84,Soupe
-FRANCE,Quiche Lorraine,89,Tarte salée
-FRANCE,Ratatouille,87,Végétarien
-FRANCE,Sole Meunière,86,Poisson
-FRANCE,Tarte Tatin,90,Dessert
-FRANCE,Vichyssoise,82,Soupe
-FRANCE,Duck Confit,91,Volaille
-GRÈCE,Gigantes Plaki,84,Végétarien
-GRÈCE,Greek Salad,88,Salade
-GRÈCE,Moussaka,93,Viande
-GRÈCE,Pastitsio,87,Pâtes
-GRÈCE,Souvlaki,91,Viande
-GRÈCE,Spanakopita,86,Végétarien
-GRÈCE,Tzatziki,85,Sauce
-GRÈCE,Dolmades,83,Entrée
-GRÈCE,Fasolada,82,Soupe
-GRÈCE,Garides Saganaki,88,Fruits de mer
-INDE,Butter Chicken,94,Volaille
-INDE,Chicken Tikka Masala,95,Volaille
-INDE,Dal Fry,88,Végétarien
-INDE,Malai Kofta,87,Végétarien
-INDE,Palak Paneer,86,Végétarien
-INDE,Rogan Josh,89,Viande
-INDE,Samosas,90,Entrée
-INDE,Tandoori Chicken,92,Volaille
-INDE,Vindaloo,85,Curry
-INDE,Biryani,93,Riz
-ITALIE,Carbonara,93,Pâtes
-ITALIE,Lasagna,94,Pâtes
-ITALIE,Osso Buco,88,Viande
-ITALIE,Penne all'Arrabbiata,86,Pâtes
-ITALIE,Pizza Margherita,95,Pizza
-ITALIE,Risotto,89,Riz
-ITALIE,Spaghetti Bolognese,92,Pâtes
-ITALIE,Tiramisu,91,Dessert
-ITALIE,Gnocchi,87,Pâtes
-ITALIE,Minestrone,85,Soupe
-JAPON,Chicken Katsu,88,Volaille
-JAPON,Gyudon,86,Viande
-JAPON,Miso Soup,85,Soupe
-JAPON,Ramen,93,Nouilles
-JAPON,Sushi,95,Poisson
-JAPON,Tempura,89,Friture
-JAPON,Teriyaki Chicken,90,Volaille
-JAPON,Tonkatsu,87,Viande
-JAPON,Udon,88,Nouilles
-JAPON,Yakitori,86,Volaille
-MEXIQUE,Beef Tacos,92,Street-food
-MEXIQUE,Burritos,91,Street-food
-MEXIQUE,Enchiladas,89,Plat principal
-MEXIQUE,Guacamole,88,Sauce
-MEXIQUE,Huevos Rancheros,85,Petit-déjeuner
-MEXIQUE,Mole,87,Sauce
-MEXIQUE,Pozole,86,Soupe
-MEXIQUE,Quesadillas,90,Street-food
-MEXIQUE,Tamales,88,Street-food
-MEXIQUE,Tostadas,87,Street-food
-ESPAGNE,Gazpacho,85,Soupe
-ESPAGNE,Paella,94,Riz
-ESPAGNE,Patatas Bravas,88,Tapas
-ESPAGNE,Tortilla Española,89,Omelette
-ESPAGNE,Albondigas,86,Viande
-ESPAGNE,Chorizo y Morcilla,87,Charcuterie
-ESPAGNE,Fabada Asturiana,85,Ragoût
-ESPAGNE,Gambas al Ajillo,90,Fruits de mer
-ESPAGNE,Pisto,84,Végétarien
-ESPAGNE,Churros,91,Dessert
-THAÏLANDE,Pad Thai,93,Nouilles
-THAÏLANDE,Green Curry,90,Curry
-THAÏLANDE,Massaman Curry,89,Curry
-THAÏLANDE,Som Tam,87,Salade
-THAÏLANDE,Tom Yum Goong,91,Soupe
-THAÏLANDE,Pad Kra Pao,88,Viande
-THAÏLANDE,Red Curry,89,Curry
-THAÏLANDE,Tom Kha Kai,86,Soupe
-THAÏLANDE,Pad See Ew,87,Nouilles
-THAÏLANDE,Khao Pad,85,Riz
+﻿Pays,Plat,Classement,Catégorie
+FRANCE,Couscous,1,Plat principal
+FRANCE,Pizza,2,Fast-food
+FRANCE,Steak-frites,3,Plat principal
+FRANCE,Magret de canard,4,Viande
+FRANCE,Blanquette de veau,5,Viande
+FRANCE,Boeuf bourguignon,6,Viande
+FRANCE,Ratatouille,7,Végétarien
+FRANCE,Cassoulet,8,Plat principal
+FRANCE,Quiche Lorraine,9,Tarte salée
+FRANCE,Croque-monsieur,10,Sandwich
+JAPON,Sushi,1,Poisson
+JAPON,Ramen,2,Nouilles
+JAPON,Tempura,3,Friture
+JAPON,Udon,4,Nouilles
+JAPON,Tonkatsu,5,Viande
+JAPON,Gyoza,6,Entrée
+JAPON,Okonomiyaki,7,Street-food
+JAPON,Miso soup,8,Soupe
+JAPON,Takoyaki,9,Street-food
+JAPON,Teriyaki,10,Sauce
+ITALIE,Pizza Margherita,1,Pizza
+ITALIE,Pasta Carbonara,2,Pâtes
+ITALIE,Lasagna,3,Pâtes
+ITALIE,Risotto,4,Riz
+ITALIE,Osso Buco,5,Viande
+ITALIE,Tiramisu,6,Dessert
+ITALIE,Gnocchi,7,Pâtes
+ITALIE,Pesto alla Genovese,8,Sauce
+ITALIE,Pasta all'Arrabbiata,9,Pâtes
+ITALIE,Vitello Tonnato,10,Viande
+CHINE,Dim Sum,1,Entrée
+CHINE,Canard laqué de Pékin,2,Volaille
+CHINE,Mapo Tofu,3,Végétarien
+CHINE,Soupe Won ton,4,Soupe
+CHINE,Poulet Kung Pao,5,Volaille
+CHINE,Nouilles Dan Dan,6,Nouilles
+CHINE,Riz frit Yangzhou,7,Riz
+CHINE,Porc au caramel,8,Viande
+CHINE,Boeuf aux oignons,9,Viande
+CHINE,Poulet Général Tso,10,Volaille
+MEXIQUE,Tacos al Pastor,1,Street-food
+MEXIQUE,Guacamole,2,Sauce
+MEXIQUE,Enchiladas,3,Plat principal
+MEXIQUE,Mole Poblano,4,Sauce
+MEXIQUE,Chiles en Nogada,5,Plat principal
+MEXIQUE,Pozole,6,Soupe
+MEXIQUE,Tamales,7,Street-food
+MEXIQUE,Cochinita Pibil,8,Viande
+MEXIQUE,Quesadillas,9,Street-food
+MEXIQUE,Ceviche,10,Poisson
+ESPAGNE,Paella Valenciana,1,Riz
+ESPAGNE,Jamón Ibérico,2,Charcuterie
+ESPAGNE,Tortilla Española,3,Omelette
+ESPAGNE,Gazpacho,4,Soupe
+ESPAGNE,Patatas Bravas,5,Tapas
+ESPAGNE,Churros,6,Dessert
+ESPAGNE,Croquetas,7,Tapas
+ESPAGNE,Pulpo a la Gallega,8,Fruits de mer
+ESPAGNE,Albondigas,9,Viande
+ESPAGNE,Calamares Fritos,10,Fruits de mer
+GRÈCE,Moussaka,1,Plat principal
+GRÈCE,Souvlaki,2,Viande
+GRÈCE,Gyros,3,Street-food
+GRÈCE,Dolmades,4,Entrée
+GRÈCE,Tzatziki,5,Sauce
+GRÈCE,Spanakopita,6,Tarte salée
+GRÈCE,Saganaki,7,Fromage
+GRÈCE,Pastitsio,8,Pâtes
+GRÈCE,Baklava,9,Dessert
+GRÈCE,Greek Salad,10,Salade
+INDE,Butter Chicken,1,Volaille
+INDE,Biryani,2,Riz
+INDE,Tikka Masala,3,Curry
+INDE,Samosas,4,Entrée
+INDE,Dal Makhani,5,Végétarien
+INDE,Naan,6,Pain
+INDE,Tandoori Chicken,7,Volaille
+INDE,Palak Paneer,8,Végétarien
+INDE,Vindaloo,9,Curry
+INDE,Korma,10,Curry
+THAÏLANDE,Pad Thai,1,Nouilles
+THAÏLANDE,Tom Yum Goong,2,Soupe
+THAÏLANDE,Green Curry,3,Curry
+THAÏLANDE,Som Tam,4,Salade
+THAÏLANDE,Massaman Curry,5,Curry
+THAÏLANDE,Pad Kra Pao,6,Viande
+THAÏLANDE,Tom Kha Gai,7,Soupe
+THAÏLANDE,Red Curry,8,Curry
+THAÏLANDE,Pad See Ew,9,Nouilles
+THAÏLANDE,Khao Pad,10,Riz
+ÉTATS-UNIS,Hamburger,1,Fast-food
+ÉTATS-UNIS,Hot Dog,2,Street-food
+ÉTATS-UNIS,Mac and Cheese,3,Comfort-food
+ÉTATS-UNIS,BBQ Ribs,4,Viande
+ÉTATS-UNIS,Fried Chicken,5,Volaille
+ÉTATS-UNIS,Apple Pie,6,Dessert
+ÉTATS-UNIS,Cheeseburger,7,Fast-food
+ÉTATS-UNIS,Buffalo Wings,8,Entrée
+ÉTATS-UNIS,Clam Chowder,9,Soupe
+ÉTATS-UNIS,Philly Cheesesteak,10,Sandwich
