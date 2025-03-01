@@ -1,101 +1,101 @@
-﻿Pays,Plat,Popularité_Score,Tendance_Sociale,Tradition,Innovation,Accessibilité,Catégorie
-ÉTATS-UNIS,Beef Brisket Pot Roast,85,950,5,10,6,Viande
-ÉTATS-UNIS,Big Mac,95,950,9,10,3,Fast-food
-ÉTATS-UNIS,Chicken Fajita Mac and Cheese,80,410,9,6,8,Fusion
-ÉTATS-UNIS,Chick-Fil-A Sandwich,90,811,5,1,6,Fast-food
-ÉTATS-UNIS,Hot Dogs,88,429,9,6,4,Street-food
-ÉTATS-UNIS,Mac and Cheese,92,934,9,3,8,Comfort-food
-ÉTATS-UNIS,Pancakes,87,872,9,1,6,Petit-déjeuner
-ÉTATS-UNIS,Philly Cheese Steak,86,470,8,7,4,Sandwich
-ÉTATS-UNIS,Pizza Express Margherita,83,219,9,6,4,Pizza
-ÉTATS-UNIS,T-Bone Steak,89,659,5,2,4,Viande
-CHINE,Beef Lo Mein,88,187,6,3,10,Nouilles
-CHINE,Chicken Congee,85,613,9,3,10,Soupe
-CHINE,Egg Drop Soup,82,404,5,4,7,Soupe
-CHINE,General Tso's Chicken,90,96,6,4,6,Volaille
-CHINE,Kung Pao Chicken,92,672,7,9,6,Volaille
-CHINE,Ma Po Tofu,87,587,5,9,5,Végétarien
-CHINE,Peking Duck,95,187,7,4,8,Volaille
-CHINE,Spring Rolls,89,588,10,7,3,Entrée
-CHINE,Sweet and Sour Pork,91,708,6,8,4,Viande
-CHINE,Won Ton Soup,86,206,8,4,4,Soupe
-FRANCE,Boeuf Bourguignon,92,861,7,1,3,Viande
-FRANCE,Coq au Vin,88,877,5,4,5,Volaille
-FRANCE,Croque Madame,85,623,5,7,3,Sandwich
-FRANCE,French Onion Soup,84,745,10,1,4,Soupe
-FRANCE,Quiche Lorraine,89,821,7,3,6,Tarte salée
-FRANCE,Ratatouille,87,292,9,4,6,Végétarien
-FRANCE,Sole Meunière,86,542,5,8,8,Poisson
-FRANCE,Tarte Tatin,90,562,10,9,10,Dessert
-FRANCE,Vichyssoise,82,404,8,1,4,Soupe
-FRANCE,Duck Confit,91,129,10,2,9,Volaille
-GRÈCE,Gigantes Plaki,84,955,9,8,5,Végétarien
-GRÈCE,Greek Salad,88,610,8,4,6,Salade
-GRÈCE,Moussaka,93,338,5,2,8,Viande
-GRÈCE,Pastitsio,87,346,10,6,7,Pâtes
-GRÈCE,Souvlaki,91,32,10,1,8,Viande
-GRÈCE,Spanakopita,86,836,9,10,4,Végétarien
-GRÈCE,Tzatziki,85,753,6,8,7,Sauce
-GRÈCE,Dolmades,83,592,5,6,6,Entrée
-GRÈCE,Fasolada,82,625,7,2,7,Soupe
-GRÈCE,Garides Saganaki,88,448,6,9,3,Fruits de mer
-INDE,Butter Chicken,94,271,10,8,3,Volaille
-INDE,Chicken Tikka Masala,95,602,7,7,7,Volaille
-INDE,Dal Fry,88,351,6,1,6,Végétarien
-INDE,Malai Kofta,87,199,6,9,10,Végétarien
-INDE,Palak Paneer,86,101,8,2,10,Végétarien
-INDE,Rogan Josh,89,541,6,3,5,Viande
-INDE,Samosas,90,211,10,10,4,Entrée
-INDE,Tandoori Chicken,92,711,8,6,7,Volaille
-INDE,Vindaloo,85,559,6,9,8,Curry
-INDE,Biryani,93,762,9,6,10,Riz
-ITALIE,Carbonara,93,324,10,6,3,Pâtes
-ITALIE,Lasagna,94,852,10,6,3,Pâtes
-ITALIE,Osso Buco,88,857,10,8,7,Viande
-ITALIE,Penne all'Arrabbiata,86,896,9,5,5,Pâtes
-ITALIE,Pizza Margherita,95,164,6,1,10,Pizza
-ITALIE,Risotto,89,796,8,7,10,Riz
-ITALIE,Spaghetti Bolognese,92,998,10,2,5,Pâtes
-ITALIE,Tiramisu,91,556,10,4,9,Dessert
-ITALIE,Gnocchi,87,162,9,10,5,Pâtes
-ITALIE,Minestrone,85,982,10,8,3,Soupe
-JAPON,Chicken Katsu,88,685,9,8,10,Volaille
-JAPON,Gyudon,86,447,7,8,5,Viande
-JAPON,Miso Soup,85,618,5,10,7,Soupe
-JAPON,Ramen,93,71,7,3,4,Nouilles
-JAPON,Sushi,95,706,9,6,6,Poisson
-JAPON,Tempura,89,794,10,4,6,Friture
-JAPON,Teriyaki Chicken,90,56,5,8,5,Volaille
-JAPON,Tonkatsu,87,979,7,3,3,Viande
-JAPON,Udon,88,133,9,5,4,Nouilles
-JAPON,Yakitori,86,34,7,3,7,Volaille
-MEXIQUE,Beef Tacos,92,287,8,8,9,Street-food
-MEXIQUE,Burritos,91,697,5,6,10,Street-food
-MEXIQUE,Enchiladas,89,174,5,1,9,Plat principal
-MEXIQUE,Guacamole,88,15,8,8,5,Sauce
-MEXIQUE,Huevos Rancheros,85,706,6,2,4,Petit-déjeuner
-MEXIQUE,Mole,87,955,6,9,5,Sauce
-MEXIQUE,Pozole,86,465,6,10,6,Soupe
-MEXIQUE,Quesadillas,90,962,8,2,8,Street-food
-MEXIQUE,Tamales,88,148,7,4,7,Street-food
-MEXIQUE,Tostadas,87,338,6,1,9,Street-food
-ESPAGNE,Gazpacho,85,457,7,5,6,Soupe
-ESPAGNE,Paella,94,883,9,10,9,Riz
-ESPAGNE,Patatas Bravas,88,601,6,9,4,Tapas
-ESPAGNE,Tortilla Española,89,960,5,7,9,Omelette
-ESPAGNE,Albondigas,86,219,5,5,4,Viande
-ESPAGNE,Chorizo y Morcilla,87,124,10,9,9,Charcuterie
-ESPAGNE,Fabada Asturiana,85,600,6,1,5,Ragoût
-ESPAGNE,Gambas al Ajillo,90,945,5,6,6,Fruits de mer
-ESPAGNE,Pisto,84,138,8,2,10,Végétarien
-ESPAGNE,Churros,91,94,6,10,7,Dessert
-THAÏLANDE,Pad Thai,93,624,7,1,6,Nouilles
-THAÏLANDE,Green Curry,90,10,6,10,8,Curry
-THAÏLANDE,Massaman Curry,89,585,6,9,3,Curry
-THAÏLANDE,Som Tam,87,760,5,5,5,Salade
-THAÏLANDE,Tom Yum Goong,91,736,6,3,5,Soupe
-THAÏLANDE,Pad Kra Pao,88,694,8,2,4,Viande
-THAÏLANDE,Red Curry,89,378,8,8,3,Curry
-THAÏLANDE,Tom Kha Kai,86,571,9,2,4,Soupe
-THAÏLANDE,Pad See Ew,87,399,7,2,10,Nouilles
-THAÏLANDE,Khao Pad,85,745,6,4,4,Riz
+﻿Pays,Plat,Popularité_Score,Catégorie
+ÉTATS-UNIS,Beef Brisket Pot Roast,85,Viande
+ÉTATS-UNIS,Big Mac,95,Fast-food
+ÉTATS-UNIS,Chicken Fajita Mac and Cheese,80,Fusion
+ÉTATS-UNIS,Chick-Fil-A Sandwich,90,Fast-food
+ÉTATS-UNIS,Hot Dogs,88,Street-food
+ÉTATS-UNIS,Mac and Cheese,92,Comfort-food
+ÉTATS-UNIS,Pancakes,87,Petit-déjeuner
+ÉTATS-UNIS,Philly Cheese Steak,86,Sandwich
+ÉTATS-UNIS,Pizza Express Margherita,83,Pizza
+ÉTATS-UNIS,T-Bone Steak,89,Viande
+CHINE,Beef Lo Mein,88,Nouilles
+CHINE,Chicken Congee,85,Soupe
+CHINE,Egg Drop Soup,82,Soupe
+CHINE,General Tso's Chicken,90,Volaille
+CHINE,Kung Pao Chicken,92,Volaille
+CHINE,Ma Po Tofu,87,Végétarien
+CHINE,Peking Duck,95,Volaille
+CHINE,Spring Rolls,89,Entrée
+CHINE,Sweet and Sour Pork,91,Viande
+CHINE,Won Ton Soup,86,Soupe
+FRANCE,Boeuf Bourguignon,92,Viande
+FRANCE,Coq au Vin,88,Volaille
+FRANCE,Croque Madame,85,Sandwich
+FRANCE,French Onion Soup,84,Soupe
+FRANCE,Quiche Lorraine,89,Tarte salée
+FRANCE,Ratatouille,87,Végétarien
+FRANCE,Sole Meunière,86,Poisson
+FRANCE,Tarte Tatin,90,Dessert
+FRANCE,Vichyssoise,82,Soupe
+FRANCE,Duck Confit,91,Volaille
+GRÈCE,Gigantes Plaki,84,Végétarien
+GRÈCE,Greek Salad,88,Salade
+GRÈCE,Moussaka,93,Viande
+GRÈCE,Pastitsio,87,Pâtes
+GRÈCE,Souvlaki,91,Viande
+GRÈCE,Spanakopita,86,Végétarien
+GRÈCE,Tzatziki,85,Sauce
+GRÈCE,Dolmades,83,Entrée
+GRÈCE,Fasolada,82,Soupe
+GRÈCE,Garides Saganaki,88,Fruits de mer
+INDE,Butter Chicken,94,Volaille
+INDE,Chicken Tikka Masala,95,Volaille
+INDE,Dal Fry,88,Végétarien
+INDE,Malai Kofta,87,Végétarien
+INDE,Palak Paneer,86,Végétarien
+INDE,Rogan Josh,89,Viande
+INDE,Samosas,90,Entrée
+INDE,Tandoori Chicken,92,Volaille
+INDE,Vindaloo,85,Curry
+INDE,Biryani,93,Riz
+ITALIE,Carbonara,93,Pâtes
+ITALIE,Lasagna,94,Pâtes
+ITALIE,Osso Buco,88,Viande
+ITALIE,Penne all'Arrabbiata,86,Pâtes
+ITALIE,Pizza Margherita,95,Pizza
+ITALIE,Risotto,89,Riz
+ITALIE,Spaghetti Bolognese,92,Pâtes
+ITALIE,Tiramisu,91,Dessert
+ITALIE,Gnocchi,87,Pâtes
+ITALIE,Minestrone,85,Soupe
+JAPON,Chicken Katsu,88,Volaille
+JAPON,Gyudon,86,Viande
+JAPON,Miso Soup,85,Soupe
+JAPON,Ramen,93,Nouilles
+JAPON,Sushi,95,Poisson
+JAPON,Tempura,89,Friture
+JAPON,Teriyaki Chicken,90,Volaille
+JAPON,Tonkatsu,87,Viande
+JAPON,Udon,88,Nouilles
+JAPON,Yakitori,86,Volaille
+MEXIQUE,Beef Tacos,92,Street-food
+MEXIQUE,Burritos,91,Street-food
+MEXIQUE,Enchiladas,89,Plat principal
+MEXIQUE,Guacamole,88,Sauce
+MEXIQUE,Huevos Rancheros,85,Petit-déjeuner
+MEXIQUE,Mole,87,Sauce
+MEXIQUE,Pozole,86,Soupe
+MEXIQUE,Quesadillas,90,Street-food
+MEXIQUE,Tamales,88,Street-food
+MEXIQUE,Tostadas,87,Street-food
+ESPAGNE,Gazpacho,85,Soupe
+ESPAGNE,Paella,94,Riz
+ESPAGNE,Patatas Bravas,88,Tapas
+ESPAGNE,Tortilla Española,89,Omelette
+ESPAGNE,Albondigas,86,Viande
+ESPAGNE,Chorizo y Morcilla,87,Charcuterie
+ESPAGNE,Fabada Asturiana,85,Ragoût
+ESPAGNE,Gambas al Ajillo,90,Fruits de mer
+ESPAGNE,Pisto,84,Végétarien
+ESPAGNE,Churros,91,Dessert
+THAÏLANDE,Pad Thai,93,Nouilles
+THAÏLANDE,Green Curry,90,Curry
+THAÏLANDE,Massaman Curry,89,Curry
+THAÏLANDE,Som Tam,87,Salade
+THAÏLANDE,Tom Yum Goong,91,Soupe
+THAÏLANDE,Pad Kra Pao,88,Viande
+THAÏLANDE,Red Curry,89,Curry
+THAÏLANDE,Tom Kha Kai,86,Soupe
+THAÏLANDE,Pad See Ew,87,Nouilles
+THAÏLANDE,Khao Pad,85,Riz
