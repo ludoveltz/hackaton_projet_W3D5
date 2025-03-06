@@ -1,5 +1,8 @@
 # Foodie Analysis: Popular Dishes Across the Globe
 
+#everything is in the analyse-des-données branch, and that the CSV files we generated are in the dataset folder.
+
+
 ## Project Overview  
 Foodie Analysis is a data-driven project that explores global food trends by analyzing popular dishes, ingredient availability, and nutritional values across different cuisines.  
 
